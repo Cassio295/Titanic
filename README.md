@@ -10,7 +10,6 @@ O gráfico mostra as principais caracteristicas que o algoritmo que eu escolhi i
 <img src="https://github.com/Cassio295/Titanic/blob/main/caracteristicas%20da%20previs%C3%A3o.png">
 
 <p>Esse gráfico foi importante para a construção de outros gráficos de visualização da previsão do modelo 
-como esse de distribuição.
-</p>
+como esse dedistribuição.</p>
 
 <img src= "https://github.com/Cassio295/Titanic/blob/main/boxplot%20por%20idade.png">
